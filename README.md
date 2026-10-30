@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nexi is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.nexigroup.com
+Nexi is a European payment technology company offering a wide range of digital payment solutions for merchants, banks, and consumers. It provides services such as card issuing, open banking, e‑commerce payments, and blockchain‑based solutions, operating across multiple countries in Europe. Nexi focuses on innovation in the PayTech sector, delivering secure, scalable, and compliant payment infrastructures for businesses of all sizes.
+
+**Areas:** Company · Payments · Fintech · Europe
+
+## Nexi on APIs.io
+
+Everything profiled for Nexi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nexi/](https://apis.io/providers/nexi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Nexi API](https://apis.io/apis/nexi/nexi-api-2/) — API reference for Nexi's payment services
+- [Nexi Build API](https://apis.io/apis/nexi/nexi-build-api/) — The Build API from Nexi — 1 operation(s) for build.
+- [Nexi Contract API](https://apis.io/apis/nexi/nexi-contract-api/) — The Contract API from Nexi — 1 operation(s) for contract.
+- [Nexi Contracts API](https://apis.io/apis/nexi/nexi-contracts-api/) — The Contracts API from Nexi — 2 operation(s) for contracts.
+- [Nexi Nexi API](https://apis.io/apis/nexi/nexi-nexi-api-api/) — The Nexi API API from Nexi — 1 operation(s) for nexi api.
+- [Nexi Operations API](https://apis.io/apis/nexi/nexi-operations-api/) — The Operations API from Nexi — 4 operation(s) for operations.
+- [Nexi Orders API](https://apis.io/apis/nexi/nexi-orders-api/) — The Orders API from Nexi — 8 operation(s) for orders.
+- [Nexi Paybylink API](https://apis.io/apis/nexi/nexi-paybylink-api/) — The Paybylink API from Nexi — 1 operation(s) for paybylink.
+- [Nexi Payment Methods API](https://apis.io/apis/nexi/nexi-payment-methods-api/) — The Payment Methods API from Nexi — 1 operation(s) for payment methods.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [GetApiV1OrdersOrderidResponse](https://apis.io/schemas/nexi/nexi-get-api-v1-orders-orderid-response/)
+- [GetApiV1OrdersResponse](https://apis.io/schemas/nexi/nexi-get-api-v1-orders-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nexi Context](https://apis.io/jsonld/nexi/nexi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Nexi API Rules](https://apis.io/rules/nexi/nexi-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nexi Domain Security](https://apis.io/security/nexi/nexi-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nexigroup.com)
+- [Documentation](https://developer.nexigroup.com/)
+- [Getting started](https://docs.paygate.nexigroup.com/nexi-developer/setup-fraud-prevention-optional)
+- [Terms of service](https://www.nexigroup.com/en/legal-notice/)
+- [Privacy policy](https://www.nexigroup.com/en/privacy-policy/)
+- [Status](https://developer.nexigroup.com/status)
+
+## API Evangelist rating
+
+**Kin Score 27.9** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 20.2 |
+| Contract governance | 35.6 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 17.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.1** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nexi/](https://apis.io/providers/nexi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nexi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nexi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
